@@ -1,0 +1,19 @@
+{
+  "name": "building-a-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Mahir Aseef",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
